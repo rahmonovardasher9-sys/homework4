@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+}
+.q{
+    margin: 16px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.e{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px;
+    padding-right: 60px;
+    border-right: 1px solid rgba(196, 196, 196, 1);
+}
+.w{
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(107, 107, 107, 1);
+
+}
+.r{
+    font-size: 16px;
+    font-weight: 700;
+}
+.t{
+    display: flex;
+    gap: 20px;
+}
