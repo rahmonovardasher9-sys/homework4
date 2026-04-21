@@ -97,3 +97,33 @@
 .j{
     background-color: rgba(249, 231, 138, 1);
 }
+.k{
+    background-color: rgba(153, 181, 235, 1);
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.l{
+    font-size: 48px;
+    font-weight: 900;
+
+}
+.z{
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: 100;
+}
+.x{
+    width: 350px;
+    margin: auto;
+    margin-top: 40px;
+}
+.c{
+    display: flex;
+    align-items: center;
+}
+.v{
+    height: 50%;
+}
