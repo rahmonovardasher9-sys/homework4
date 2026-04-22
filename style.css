@@ -127,3 +127,16 @@
 .v{
     height: 50%;
 }
+.b{
+  background-color: rgba(153, 194, 165, 1);
+}
+.n{
+  margin: auto;
+  margin-top: 20px;
+}
+.m{
+  background-color: rgba(249, 231, 138, 1);
+}
+.q2{
+  background-color: white;
+}
