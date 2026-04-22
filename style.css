@@ -80,63 +80,99 @@
   padding: 50px 0px;
   text-align: center;
 }
-.f{
-    font-size: 40px;
-    font-weight: 400;
+.f {
+  font-size: 40px;
+  font-weight: 400;
 }
-.g{
-    display: inline-block;
-    padding: 2% 20px;
-    line-height: 10px;
-    border-radius: 30px;
-    background-color: rgba(153, 181, 235, 1);
+.g {
+  display: inline-block;
+  padding: 2% 20px;
+  line-height: 10px;
+  border-radius: 30px;
+  background-color: rgba(153, 181, 235, 1);
 }
-.h{
-    background-color: rgba(153, 194, 165, 1);
-}
-.j{
-    background-color: rgba(249, 231, 138, 1);
-}
-.k{
-    background-color: rgba(153, 181, 235, 1);
-    padding: 50px 0px;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    flex-direction: column;
-}
-.l{
-    font-size: 48px;
-    font-weight: 900;
-
-}
-.z{
-    font-size: 30px;
-    margin-top: 30px;
-    font-weight: 100;
-}
-.x{
-    width: 350px;
-    margin: auto;
-    margin-top: 40px;
-}
-.c{
-    display: flex;
-    align-items: center;
-}
-.v{
-    height: 50%;
-}
-.b{
+.h {
   background-color: rgba(153, 194, 165, 1);
 }
-.n{
+.j {
+  background-color: rgba(249, 231, 138, 1);
+}
+.k {
+  background-color: rgba(153, 181, 235, 1);
+  padding: 50px 0px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.l {
+  font-size: 48px;
+  font-weight: 900;
+}
+.z {
+  font-size: 30px;
+  margin-top: 30px;
+  font-weight: 100;
+}
+.x {
+  width: 350px;
+  margin: auto;
+  margin-top: 40px;
+}
+.c {
+  display: flex;
+  align-items: center;
+}
+.v {
+  height: 50%;
+}
+.b {
+  background-color: rgba(153, 194, 165, 1);
+}
+.n {
   margin: auto;
   margin-top: 20px;
 }
-.m{
+.m {
   background-color: rgba(249, 231, 138, 1);
 }
-.q2{
+.q2 {
   background-color: white;
+}
+.w2 {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 40px 225 px;
+}
+.e2 {
+  width: 260px;
+  border-radius: 20px;
+  border: 1px solid rgba(189, 189, 189, 1);
+  padding: 20px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  text-align: left;
+}
+.r2 {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.t2 {
+  font-size: 16px;
+  font-weight: 100;
+}
+.y2 {
+  font-size: 16px;
+  font-weight: 700;
+}
+.u2 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.i2{
+  margin-top: 20px;
 }
